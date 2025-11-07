@@ -1,0 +1,11 @@
+{
+    "name": "collabsphere",
+    "version": "1.0.0",
+    "description": "Platform connecting content creators with brands",
+    "scripts": {
+      "start": "serve -s"
+    },
+    "dependencies": {
+      "serve": "^14.2.0"
+    }
+  }
